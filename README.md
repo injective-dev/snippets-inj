@@ -6,6 +6,8 @@ See: [`sscce.org`](https://sscce.org/)
 
 ## Snippets
 
+- Verify version numbers of Injective releases: [`verify-injective-release`](./verify-injective-release/)
+
 <!-- TODO add more snippets to bullet points using the following template:
 - Some text description: [`snake-case-dir`](./snake-case-dir/)
 -->
