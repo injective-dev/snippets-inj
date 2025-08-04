@@ -1,4 +1,4 @@
-# Inejctive Code Snippets
+# Injective Code Snippets
 
 Short, Self Contained, Correct Examples of code on Hedera.
 
@@ -17,7 +17,8 @@ Submit a Github PR with the following:
 - A new top-level directory containing:
   - Your code example
   - A `README.md` file
-- Upadte the "snippets" section in this top-level `README.md` to link to your subdirectory.
+- Update the "snippets" section in this top-level `README.md`
+  - Add a link to the new subdirectory
 
 ## Licence
 
