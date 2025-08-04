@@ -1,6 +1,6 @@
 # Injective Code Snippets
 
-Short, Self Contained, Correct Examples of code on Hedera.
+Short, Self Contained, Correct Examples of code on Injective.
 
 See: [`sscce.org`](https://sscce.org/)
 

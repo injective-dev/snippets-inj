@@ -4,7 +4,7 @@ This code snippet is centred on a shell script that does the following:
 
 - Downloads a specified release (version) of injective
 - Creates a docker image from it
-- Runs the docker image, whose command should output the `inejctived` and `peggo` versions
+- Runs the docker image, whose command should output the `injectived` and `peggo` versions
 
 ## How to run
 
